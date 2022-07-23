@@ -1,2 +1,4 @@
-# Python-K-Means-and-Clustering
-UI designes and Clustering operations
+# Deneme
+
+## alt bilgi
+bu benim projeydi
